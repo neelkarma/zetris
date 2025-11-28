@@ -1,9 +1,9 @@
 # zetris
 
+> Guideline Tetris clone in Zig
+
 > ![WARNING]
 > Work in progress. Not finished at all.
-
-> Guideline Tetris clone in Zig
 
 Goals:
 
